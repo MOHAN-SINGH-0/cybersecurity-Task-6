@@ -46,7 +46,7 @@ Online free password strength checkers (e.g., passwordmeter.com)
 - Short, simple passwords—even with numbers—are still easy to guess.
 
 ## Tip 
-The  5th Password (MoHaN@0603_21) is still very weak and could be crack is seconds, Although this password was marked as “Very Strong” by the online password checker, the reason website show is Very Strong is because website dont have any Infomartion about the user, and the reason i saying this is because that password only contains 
+The  5th Password (MoHaN@0603_21) is still very weak and could be crack is seconds, Although this password was marked as “Very Strong” by the online password checker, the reason website show is Very Strong is because website dont have any Infomartion about the user, and the reason i am saying this is because that password only contains 
 - MoHaN: My Name
 - 0603:  my Date of Birth
 - 21: my current age.
